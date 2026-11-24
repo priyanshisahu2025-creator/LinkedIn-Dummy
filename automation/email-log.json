@@ -1,0 +1,52 @@
+[
+  {
+    "email": "kevin@nexgenit.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVivnxXAa9ZbMnKAAAAAduuwLlgy-oK9xB8XFUW5pw"
+  },
+  {
+    "email": "rahul@techstaff.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawViy3xXAa9ZbMnSAAAAAoUl2YoB0Jw5YmyU3uAJFuU"
+  },
+  {
+    "email": "divya@codebridge.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVi1XxXAa9ZbMnaAAAAA9-8uW8kSO.q8dO6XJ4GyuE"
+  },
+  {
+    "email": "mark@stafflink.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVi4HM3WywC8EHdAAAABHhyU-0fDxprG4BNDKS2D6w"
+  },
+  {
+    "email": "anita@bluehire.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVi8nM3WywC8EHvAAAABTL7IpMb1CaYI.A8BfFtx.s"
+  },
+  {
+    "email": "sneha@talentwave.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVi.3xXAa9ZbMn0AAAABpU6rmcrAv2JXesrPp3c0Og"
+  },
+  {
+    "email": "brian@primeconsult.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVjCnxXAa9ZbMn-AAAABx1P9F1gYKV-JW9kdeaHKzc"
+  },
+  {
+    "email": "neha@hirespark.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVjGXM3WywC8EIFAAAACIj7JDJEiejNZ1fY0WCsrqY"
+  },
+  {
+    "email": "tony@bluechip.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVjKHnSi3L0dGE7AAAACVcj1VfA4ix5QgzKaJLiwLE"
+  },
+  {
+    "email": "alisha@jobgrid.test",
+    "status": "sent",
+    "preview": "https://ethereal.email/message/awVitOiVxZpKw5ipawVjNdT-eTqTJv8aAAAACjZrI8ElAkqKClF7NK.IrG4"
+  }
+]
